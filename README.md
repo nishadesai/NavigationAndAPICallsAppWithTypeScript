@@ -4,10 +4,11 @@
 
 ## Install dependencies:
 
+```bash
 npm install
 # or
 yarn install
-
+```
 ## Usage
 
 To start the Expo development server and run the app on your device or emulator, use the following commands:
@@ -23,11 +24,13 @@ Or using npx:
 
 ```bash
 npx expo start
+```
 
 Or if you have expo-cli installed globally:
 
 ```bash
 expo start
+```
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
